@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47550" started-at="2018-09-21T16:31:52Z" finished-at="2018-09-21T16:32:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47550" started-at="2018-09-21T16:31:52Z" finished-at="2018-09-21T16:32:39Z">
+      <class name="com.one2team.scripts.SuiteUseCase">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.one2team.scripts.SuiteUseCase@5b275dab]" name="setUp" is-config="true" duration-ms="6209" started-at="2018-09-21T18:31:52Z" finished-at="2018-09-21T18:31:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ScriptCreateCarte()[pri:0, instance:com.one2team.scripts.SuiteUseCase@5b275dab]" name="ScriptCreateCarte" duration-ms="20659" started-at="2018-09-21T18:31:58Z" finished-at="2018-09-21T18:32:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScriptCreateCarte -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.one2team.scripts.SuiteUseCase@5b275dab]" name="afterMethod" is-config="true" duration-ms="17" started-at="2018-09-21T18:32:19Z" finished-at="2018-09-21T18:32:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ScriptCreateCarte status=SUCCESS method=SuiteUseCase.ScriptCreateCarte()[pri:0, instance:com.one2team.scripts.SuiteUseCase@5b275dab] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="ScriptDragANDDropCard()[pri:0, instance:com.one2team.scripts.SuiteUseCase@5b275dab]" name="ScriptDragANDDropCard" duration-ms="9645" started-at="2018-09-21T18:32:19Z" finished-at="2018-09-21T18:32:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScriptDragANDDropCard -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.one2team.scripts.SuiteUseCase@5b275dab]" name="afterMethod" is-config="true" duration-ms="34" started-at="2018-09-21T18:32:28Z" finished-at="2018-09-21T18:32:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ScriptDragANDDropCard status=SUCCESS method=SuiteUseCase.ScriptDragANDDropCard()[pri:0, instance:com.one2team.scripts.SuiteUseCase@5b275dab] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="ScriptUploadFileInCard()[pri:0, instance:com.one2team.scripts.SuiteUseCase@5b275dab]" name="ScriptUploadFileInCard" duration-ms="9501" started-at="2018-09-21T18:32:28Z" finished-at="2018-09-21T18:32:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScriptUploadFileInCard -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.one2team.scripts.SuiteUseCase@5b275dab]" name="afterMethod" is-config="true" duration-ms="30" started-at="2018-09-21T18:32:38Z" finished-at="2018-09-21T18:32:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ScriptUploadFileInCard status=SUCCESS method=SuiteUseCase.ScriptUploadFileInCard()[pri:0, instance:com.one2team.scripts.SuiteUseCase@5b275dab] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.one2team.scripts.SuiteUseCase@5b275dab]" name="tearDown" is-config="true" duration-ms="1401" started-at="2018-09-21T18:32:38Z" finished-at="2018-09-21T18:32:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.one2team.scripts.SuiteUseCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

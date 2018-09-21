@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comptes>
+<!-- INDICE DU COMPTE A TESTER, "akadira" ÉTANT L'INDICE 0 -->
+<compteActif>0</compteActif>
+<mdpActif>0</mdpActif>
+	
+	<domaineActif>0</domaineActif><hsaidani>
+	
+	<compte>candidat</compte>
+	<mdp>Candidat1*</mdp>
+
+	<domaine>telco</domaine></hsaidani>
+	</comptes>
